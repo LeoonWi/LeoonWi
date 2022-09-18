@@ -21,12 +21,12 @@
 <hr>
 
 <h3>Configuration my PC</h3>
-<p><strong>OS: Fedora 36 Workstation<br>
-CPU: Intel Pentium G4600 (4) @ 3.600GHz<br>
-GPU: NVIDIA GeForce GTX 1050 Ti<br>
-Memory: 8Gb 2400MHz<br>
-Mouse: Zet Gaming Edge Air Ultra White<br>
-Keyboard: Cougar Vantar</strong></p>
+<p><strong>OS: <i>Fedora 36 Workstation</i><br>
+CPU: <i>Intel Pentium G4600 (4) @ 3.600GHz</i><br>
+GPU: <i>NVIDIA GeForce GTX 1050 Ti</i><br>
+Memory: <i>8Gb 2400MHz</i><br>
+Mouse: <i>Zet Gaming Edge Air Ultra White</i><br>
+Keyboard: <i>Cougar Vantar</i></strong></p>
 <hr>
 
 <div align="center">
