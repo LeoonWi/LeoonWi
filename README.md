@@ -19,6 +19,7 @@
 </div>
 
 <hr>
+
 ###Configuration my PC
 __OS:__ ___Fedora 36 Workstation___
 __CPU:__ ___Intel Pentium G4600 (4) @ 3.600GHz___
