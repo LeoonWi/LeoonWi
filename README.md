@@ -15,7 +15,7 @@
 
 <h3>Languages and tools</h3>
 
-[![](https://img.shields.io/badge/-Fedora-blue?&style=flat&logo=fedora&logoColor=white)](https://getfedora.org/ru/workstation/download/) [![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?&style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/-C++-blue?&style=flat&logo=cplusplus&logoColor=white)](https://ru.wikipedia.org/wiki/C%2B%2B) ![](https://img.shields.io/badge/-HTML-blue?&style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-CSS-blue?&style=flat&logo=css3&logoColor=white)
+[![](https://img.shields.io/badge/-Fedora-blue?&style=flat&logo=fedora&logoColor=white)](https://getfedora.org/ru/workstation/download/) [![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?&style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/-C++-blue?&style=flat&logo=cplusplus&logoColor=white)](https://ru.wikipedia.org/wiki/C%2B%2B) [![](https://img.shields.io/badge/-HTML-blue?&style=flat&logo=html5&logoColor=white)](https://ru.wikipedia.org/wiki/HTML5) [![](https://img.shields.io/badge/-CSS-blue?&style=flat&logo=css3&logoColor=white)](https://ru.wikipedia.org/wiki/CSS)
 </div>
 
 <hr>
