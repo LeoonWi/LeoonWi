@@ -20,7 +20,8 @@
 
 <hr>
 
-###Configuration my PC
+<h3>Configuration my PC</h3>
+
 __OS:__ ___Fedora 36 Workstation___
 __CPU:__ ___Intel Pentium G4600 (4) @ 3.600GHz___
 __GPU:__ ___NVIDIA GeForce GTX 1050 Ti___
